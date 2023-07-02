@@ -47,7 +47,7 @@
                       </table>
                       {{ $owners->links() }}
                     </div>
-                  </div>
+                  </div> 
                 </section>
 
               {{--  エロクアント
